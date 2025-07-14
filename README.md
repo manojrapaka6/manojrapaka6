@@ -5,8 +5,8 @@
 
 ## 🙋‍♂️ About Me
 
-🔭 I’m currently working as a **Data Science Intern**, applying analytical methods to solve real-world business problems.  
-🌱 I’m actively learning **Data Science**, **GenAI**, **LangChain**, and **Retrieval-Augmented Generation (RAG)**.  
+🔭 I’m currently working as a **Data Science Trainer at siva academy**, applying analytical methods to solve real-world business problems.  
+🌱 I’m actively learning  **GenAI**, **LangChain**, and **Retrieval-Augmented Generation (RAG)**.  
 📈 I specialize in **EDA**, **predictive modeling**, and **business intelligence dashboards**.  
 🕸️ Skilled in **web scraping**, and using machine learning to derive actionable insights.  
 💡 I love experimenting with ML algorithms and visualizing data patterns.
