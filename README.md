@@ -5,7 +5,7 @@
 
 ## 🙋‍♂️ About Me
 
-🔭 I’m currently working as a **Data Science Trainer at siva academy**, applying analytical methods to solve real-world business problems.  
+🔭 I’m currently working as a **SME AT EDUNET FOUNDATION**, applying analytical methods to solve real-world business problems.  
 🌱 I’m actively learning  **GenAI**, **LangChain**, and **Retrieval-Augmented Generation (RAG)**.  
 📈 I specialize in **EDA**, **predictive modeling**, and **business intelligence dashboards**.  
 🕸️ Skilled in **web scraping**, and using machine learning to derive actionable insights.  
